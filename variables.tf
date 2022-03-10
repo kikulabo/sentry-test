@@ -1,0 +1,1 @@
+variable "sentry_token" {}
